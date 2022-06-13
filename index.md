@@ -3,7 +3,7 @@
 # **Pravidlá**
 
 Existuje mnoho rôznych variantov pravidiel hry, ja som vybral tieto (klasická anglická dáma)
-* _ Cieľom hry je vyhodiť všetky súperove figurky. _
+* _Cieľom hry je vyhodiť všetky súperove figurky.
 * Dáma sa hrá sa na šachovnici 8x8, pričom každý hráč má na začiatku 12 figúrok (pešiakov) 
 stojacich oproti sebe v prvých dvoch radoch na čiernych políčkach.
 * Pešiaci sa pohybujú po diagonálach (šikmo) a nesmú preskakovať svoje vlastné figúrky. 
@@ -15,5 +15,5 @@ Medzi preskakovanými súperovými figúrkami musí byť vždy jedno pole voľn�
 Po každom dopade sa môže zmeniť smer ďalšieho skoku. 
 * Ak sa pešiak dostane na druhú stranu šachovnice, stane sa z neho dáma. Tá sa môže pohybovať po diagonálach vpred aj vzad na 1 polé.
 * Ak mate možnosť vyhodiť súperovu figúrku, tak musite ju vyhodiť.
-* Hru vyhráva hráč, ktorý zoberie súperovi všetky jeho figúrky. *
+* Hru vyhráva hráč, ktorý zoberie súperovi všetky jeho figúrky._
 ---
