@@ -16,4 +16,5 @@ Po každom dopade sa môže zmeniť smer ďalšieho skoku._
 * _Ak sa pešiak dostane na druhú stranu šachovnice, stane sa z neho dáma. Tá sa môže pohybovať po diagonálach vpred aj vzad na 1 polé._
 * _Ak mate možnosť vyhodiť súperovu figúrku, tak musite ju vyhodiť._
 * _Hru vyhráva hráč, ktorý zoberie súperovi všetky jeho figúrky._
+
 ---
