@@ -1,1 +1,1 @@
-### **срака**
+### Python Checkers(Dáma)
