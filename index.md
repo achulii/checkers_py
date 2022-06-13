@@ -18,6 +18,10 @@ Po každom dopade sa môže zmeniť smer ďalšieho skoku(ale len dopredu, ak ni
 * _Hru vyhráva hráč, ktorý zoberie súperovi všetky jeho figúrky._
 
 ---
+## *Ovládanie hry*
+Hru môžete ovládať ľavým tlačidlom myši a ťahanim.
+
+---
 
 ## *Režimy hry*
 1. Player vs Player
@@ -29,7 +33,7 @@ Umelá inteligencia je implementovaná takým spôsobom, že na základe každé
 1. Príležitosť urobiť z pešiaka dámu.
 2. Pokus o obranu pešiaka/damy, ktorú sa hráč snaží získať.
 3. Ak nie je žiadna iná možnosť realizovať predchádzajúce možnosti, vykoná sa náhodný ťah.
-
+Umelá inteligencia používa 1-sekundové oneskorenie ťahu pre dosiahnutie prirodzenosti.
 ---
 ## *Vlastnosti*
 Ak hráč nechce hru dokončiť, môže ju uložiť do textového súboru. Kedykoľvek sa k nej môže vrátiť a dokončiť ju. Táto funkcia funguje v dvoch režimoch(P vs P, P vs C)
