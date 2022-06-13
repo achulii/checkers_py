@@ -1,6 +1,6 @@
 ### Python Checkers
 
-#Pravidlá
+# **Pravidlá**
 
 Existuje mnoho rôznych variantov pravidiel hry, ja som vybral tieto (klasická anglická dáma)
 * Cieľom hry je vyhodiť všetky súperove figurky.
@@ -16,3 +16,4 @@ Po každom dopade sa môže zmeniť smer ďalšieho skoku.
 * Ak sa pešiak dostane na druhú stranu šachovnice, stane sa z neho dáma. Tá sa môže pohybovať po diagonálach vpred aj vzad na 1 polé.
 * Ak mate možnosť vyhodiť súperovu figúrku, tak musite ju vyhodiť.
 * Hru vyhráva hráč, ktorý zoberie súperovi všetky jeho figúrky. 
+---
