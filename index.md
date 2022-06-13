@@ -36,7 +36,8 @@ Umelá inteligencia je implementovaná takým spôsobom, že na základe každé
 Umelá inteligencia používa 1-sekundové oneskorenie ťahu pre dosiahnutie prirodzenosti.
 ---
 ## *Vlastnosti*
-Ak hráč nechce hru dokončiť, môže ju uložiť do textového súboru. Kedykoľvek sa k nej môže vrátiť a dokončiť ju. Táto funkcia funguje v dvoch režimoch(P vs P, P vs C)
+* Po každej akcii hráča alebo počítača sa prehrá hudba (ťah, koniec hry, vyhodenie súperovej figúrky).
+* Ak hráč nechce hru dokončiť, môže ju uložiť do textového súboru. Kedykoľvek sa k nej môže vrátiť a dokončiť ju. Táto funkcia funguje v dvoch režimoch(P vs P, P vs C).
 
 ---
 # [*Stiahnuť hru*](https://www.google.com/search?q=im+gay)
