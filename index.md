@@ -1,6 +1,6 @@
 ### Python Checkers
 
-# *Pravidlá*
+### *Pravidlá*
 
 Existuje mnoho rôznych variantov pravidiel hry, ja som vybral tieto (klasická anglická dáma)
 * _Cieľom hry je vyhodiť všetky súperove figurky._
