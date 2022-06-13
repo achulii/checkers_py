@@ -31,3 +31,5 @@ Umelá inteligencia je implementovaná takým spôsobom, že na základe každé
 3. Ak nie je žiadna iná možnosť realizovať predchádzajúce možnosti, vykoná sa náhodný ťah.
 
 ---
+## *Vlastnosti*
+Ak hráč nechce hru dokončiť, môže ju uložiť do textového súboru. Kedykoľvek sa k nej môže vrátiť a dokončiť ju. Táto funkcia funguje v dvoch režimoch(P vs P, P vs C)
