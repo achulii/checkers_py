@@ -12,9 +12,22 @@ Pri bežnom ťahu sa figúrky smú pohybovať iba po jednom políčku._
 * _Vyhodenie súperovej figúrky sa uskutoční jej preskočením. 
 Ak sa v ceste figúrky, ktorá vyhadzuje, nachádza aj ďalšia súperova figúrka, tak ju môže takisto preskočiť. 
 Medzi preskakovanými súperovými figúrkami musí byť vždy jedno pole voľné - figúrky nemôžu stáť tesne za sebou. 
-Po každom dopade sa môže zmeniť smer ďalšieho skoku._ 
+Po každom dopade sa môže zmeniť smer ďalšieho skoku(ale len dopredu, ak nie je dámou)._ 
 * _Ak sa pešiak dostane na druhú stranu šachovnice, stane sa z neho dáma. Tá sa môže pohybovať po diagonálach vpred aj vzad na 1 polé._
 * _Ak mate možnosť vyhodiť súperovu figúrku, tak musite ju vyhodiť._
 * _Hru vyhráva hráč, ktorý zoberie súperovi všetky jeho figúrky._
+
+---
+
+## *Režimy hry*
+1. Player vs Player
+2. Player vs Computer
+
+---
+## *Player vs Computer*
+Umelá inteligencia je implementovaná takým spôsobom, že na základe každého ťahu hráča vypočíta nasledujúci ťah s najvyššou pravdepodobnosťou vyhodenia nepriateľovej dámy. Ťahy umelej inteligencie sú teda vypočítané počas hry a žiadne stratégie nie sú dopredu pripravené. Zajatie nepriateľskej dámy je prioritou, keďže výrazne zvyšuje šance na výhru (zároveň podľa pravidiel hry, ak existuje možnosť - musíte ju využiť). Ak neexistuje žiadna iná možnosť, počítač sa rozhodne vykonať ťah na základe týchto rôznych situácií:
+1. Príležitosť urobiť z pešiaka dámu.
+2. Pokus o obranu pešiaka/damy, ktorú sa hráč snaží získať.
+3. Náhodný ťah (vykonaný ako posledný, ak nie je možné realizovať všetky predchádzajúce možnosti).
 
 ---
