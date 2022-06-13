@@ -29,7 +29,7 @@ Hru môžete ovládať ľavým tlačidlom myši a ťahanim.
 
 ---
 ## *Player vs Computer*
-Umelá inteligencia je implementovaná takým spôsobom, že na základe každého ťahu hráča vypočíta nasledujúci ťah s najvyššou pravdepodobnosťou vyhodenia nepriateľovej dámy. Ťahy umelej inteligencie sú teda vypočítané počas hry a žiadne stratégie nie sú dopredu pripravené. Zajatie nepriateľskej dámy je prioritou, keďže výrazne zvyšuje šance na výhru (zároveň podľa pravidiel hry, ak existuje možnosť - musíte ju využiť). Ak neexistuje žiadna iná možnosť, počítač sa rozhodne vykonať ťah na základe týchto rôznych situácií:
+Umelá inteligencia je implementovaná takým spôsobom, že na základe každého ťahu hráča vypočíta nasledujúci ťah s najvyššou pravdepodobnosťou vyhodenia nepriateľovej dámy/pešiaka. Ťahy umelej inteligencie sú teda vypočítané počas hry a žiadne stratégie nie sú dopredu pripravené. Zajatie nepriateľskej dámy je prioritou, keďže výrazne zvyšuje šance na výhru (zároveň podľa pravidiel hry, ak existuje možnosť - musíte ju využiť). Ak neexistuje žiadna iná možnosť, počítač sa rozhodne vykonať ťah na základe týchto rôznych situácií:
 1. Príležitosť urobiť z pešiaka dámu.
 2. Pokus o obranu pešiaka/damy, ktorú sa hráč snaží získať.
 3. Ak nie je žiadna iná možnosť realizovať predchádzajúce možnosti, vykoná sa náhodný ťah.
