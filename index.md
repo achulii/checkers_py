@@ -18,6 +18,9 @@ Po každom dopade sa môže zmeniť smer ďalšieho skoku(ale len dopredu, ak ni
 * _Ak mate možnosť vyhodiť súperovu figúrku, tak musite ju vyhodiť._
 * _Hru vyhráva hráč, ktorý zoberie súperovi všetky jeho figúrky._
 
+![Ilustrácia hry](https://github.com/achulii/checkers_py/blob/master/game.jpg)
+
+
 ---
 ## *Ovládanie hry*
 Hru môžete ovládať ľavým tlačidlom myši a ťahanim.
