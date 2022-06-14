@@ -44,4 +44,4 @@ Umelá inteligencia používa 1-sekundové oneskorenie ťahu pre dosiahnutie pri
 * Ak hráč nechce hru dokončiť, môže ju uložiť do textového súboru. Kedykoľvek sa k nej môže vrátiť a dokončiť ju. Táto funkcia funguje v dvoch režimoch(P vs P, P vs C).
 
 ---
-# [*Stiahnuť hru*](https://www.google.com/search?q=im+gay)
+# [*Stiahnuť hru*](https://github.com/achulii/checkers_py/raw/master/checkers.zip)
